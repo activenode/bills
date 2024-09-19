@@ -206,7 +206,7 @@ export function DragNDropBills() {
         <Card className="max-w-4xl mx-auto">
           <CardHeader>
             <CardTitle className="text-4xl font-bold text-center">
-              Drag n' Drop Bills
+              Drag n&apos; Drop Bills
             </CardTitle>
           </CardHeader>
           <CardContent>
